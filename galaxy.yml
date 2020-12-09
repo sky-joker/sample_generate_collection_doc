@@ -1,0 +1,13 @@
+namespace: sample
+name: sample_generate_collection_doc
+readme: README.md
+authors:
+  - sky-joker (@sky-joker)
+description:
+license: 
+license_file: LICENSE
+tags:
+  - sample
+repository: https://github.com/sky-joker/sample_generate_collection_doc.git
+homepage: https://github.com/sky-joker/sample_generate_collection_doc
+issues: https://github.com/sky-joker/sample_generate_collection_doc/issues
